@@ -1,0 +1,6 @@
+{
+  "name": "OnlineGDB",
+  "description": "OnlineGDB C++ Editor with line numbers, interactive STDIN/STDOUT terminal, and live breakpoints & variable watch debugger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

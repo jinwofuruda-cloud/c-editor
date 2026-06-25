@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Styled Chevron Console Prompt (>) -->
+    <path
+        android:fillColor="#4EC9B0"
+        android:pathData="M24,32 L38,46 L24,60 L29,65 L48,46 L29,27 Z" />
+    
+    <!-- Cursor Underscore (_) -->
+    <path
+        android:fillColor="#CE9178"
+        android:pathData="M50,60 L70,60 L70,65 L50,65 Z" />
+    
+    <!-- Curly Bracket ({) representing C++ Code -->
+    <path
+        android:fillColor="#569CD6"
+        android:pathData="M76,28 C70,28 66,32 66,38 L66,42 C66,45 64,47 62,48 C64,49 66,51 66,54 L66,58 C66,64 70,68 76,68 L80,68 L80,64 L76,64 C73,64 72,62 72,58 L72,52 C72,49 69,46 66,46 C69,46 72,43 72,40 L72,34 C72,30 73,28 76,28 L80,28 L80,23 L76,23" />
+</vector>
